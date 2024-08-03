@@ -1,1 +1,1 @@
-My first semester  project using C Language.
+NOT - A - SIMPLE CALCULATOR
